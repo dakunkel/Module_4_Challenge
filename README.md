@@ -10,7 +10,8 @@ For this homework assignment, you have three main tasks:
 ---
 
 ## Instructions
-**File:** [Whale Analysis Starter Code](whale_analysis_FINAL.ipynb)
+**Updated File:** [Whale Analysis Starter Code - V2](whale_analysis_FINAL_Version_2.ipynb)
+**First Attempt** [Whale Analysis Starter Code - V1](whale_analysis_FINAL.ipynb)
 
 **Answers to Questions:** Written in markdown within the file
 
